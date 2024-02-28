@@ -1,8 +1,5 @@
 {
   "games":  [
-    {
-    "status": "ok",
-    "data": [
         {
             "gameId": 348,
             "gameName": "Magic Fruits 4 Deluxe",
@@ -406,7 +403,5 @@
                 "https://imgproxy.1win-cdn.com/unsafe/casino_list_b…es/08bf51d2-d2ab-4405-827e-551caae01bf7.jpeg@avif"
             ]
         }
-    ]
-}
   ]
 }
