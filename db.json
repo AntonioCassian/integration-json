@@ -65,12 +65,6 @@
             "provider": "wazdan",
             "RTP": 96.1,
             "freeRoundsSupported": true,
-            "minStake": {
-                "TRY": 1
-            },
-            "defaultStake": {
-                "TRY": 7
-            },
             "allowedStakes": {
                 "TRY": [
                     1,
@@ -161,12 +155,6 @@
             "provider": "wazdan",
             "RTP": 96.59,
             "freeRoundsSupported": true,
-            "minStake": {
-                "TRY": 1
-            },
-            "defaultStake": {
-                "TRY": 7
-            },
             "allowedStakes": {
                 "TRY": [
                     1,
@@ -310,12 +298,6 @@
             "provider": "wazdan",
             "RTP": 96.59,
             "freeRoundsSupported": true,
-            "minStake": {
-                "TRY": 1
-            },
-            "defaultStake": {
-                "TRY": 7
-            },
             "allowedStakes": {
                 "TRY": [
                     1,
@@ -359,12 +341,6 @@
             "provider": "wazdan",
             "RTP": 96.59,
             "freeRoundsSupported": true,
-            "minStake": {
-                "TRY": 1
-            },
-            "defaultStake": {
-                "TRY": 7
-            },
             "allowedStakes": {
                 "TRY": [
                     1,
